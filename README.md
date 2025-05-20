@@ -17,7 +17,8 @@ A React-based frontend application that visualizes a **Caesar-style cipher encod
 
 ## 📸 Screenshots
 
-<img src="./preview8.png" alt="Pizzeria Screenshot" width="400"/>
+<img src="./preview8.png" alt="Cipher Site Screenshot" width="400"/>
+<img src="./previeww.png" alt="Cipher Site Screenshot" width="400"/>
 
 ---
 
